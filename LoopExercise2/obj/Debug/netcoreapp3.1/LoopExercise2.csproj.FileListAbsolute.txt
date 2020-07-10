@@ -1,0 +1,13 @@
+F:\repos\LoopExercises\LoopExercise2\bin\Debug\netcoreapp3.1\LoopExercise2.exe
+F:\repos\LoopExercises\LoopExercise2\bin\Debug\netcoreapp3.1\LoopExercise2.deps.json
+F:\repos\LoopExercises\LoopExercise2\bin\Debug\netcoreapp3.1\LoopExercise2.runtimeconfig.json
+F:\repos\LoopExercises\LoopExercise2\bin\Debug\netcoreapp3.1\LoopExercise2.runtimeconfig.dev.json
+F:\repos\LoopExercises\LoopExercise2\bin\Debug\netcoreapp3.1\LoopExercise2.dll
+F:\repos\LoopExercises\LoopExercise2\bin\Debug\netcoreapp3.1\LoopExercise2.pdb
+F:\repos\LoopExercises\LoopExercise2\obj\Debug\netcoreapp3.1\LoopExercise2.csprojAssemblyReference.cache
+F:\repos\LoopExercises\LoopExercise2\obj\Debug\netcoreapp3.1\LoopExercise2.AssemblyInfoInputs.cache
+F:\repos\LoopExercises\LoopExercise2\obj\Debug\netcoreapp3.1\LoopExercise2.AssemblyInfo.cs
+F:\repos\LoopExercises\LoopExercise2\obj\Debug\netcoreapp3.1\LoopExercise2.csproj.CoreCompileInputs.cache
+F:\repos\LoopExercises\LoopExercise2\obj\Debug\netcoreapp3.1\LoopExercise2.dll
+F:\repos\LoopExercises\LoopExercise2\obj\Debug\netcoreapp3.1\LoopExercise2.pdb
+F:\repos\LoopExercises\LoopExercise2\obj\Debug\netcoreapp3.1\LoopExercise2.genruntimeconfig.cache
